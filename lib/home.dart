@@ -77,7 +77,7 @@ class _MainpageState extends State<Mainpage> {
                             ),
                           ),
                           Text(
-                            "Abed alrahman",
+                            "Asem dalabieh",
                             style: TextStyle(color: Color(0xff13442E), fontSize: 18, fontWeight: FontWeight.w600),
                           )
                         ],
